@@ -9,3 +9,4 @@ This repository contains API traning for Go.
 ```bash
 $ go run main.go
 ```
+check on postman or you can use browser by input this domain `localhost:9090/todos`
