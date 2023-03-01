@@ -9,4 +9,10 @@ This repository contains API traning for Go.
 ```bash
 $ go run main.go
 ```
-check on postman or you can use browser by input this domain `localhost:9090/todos`
+Check on postman or you can use your browser and input this domain `localhost:9090/todos`
+
+## Routes
+
+- [GET] `localhost:9090/todos` or `localhost:9090/todos/{id}`
+- [POST] `localhost:9090/todos`
+- [PATCH] `localhost:9090/todos/{id}`
