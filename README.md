@@ -2,6 +2,12 @@
 
 This repository contains API traning for Go.
 
+## Packages
+
+- "errors"
+-	"net/http"
+-	"github.com/gin-gonic/gin"
+
 ## How to run
 
 ### Run the server
